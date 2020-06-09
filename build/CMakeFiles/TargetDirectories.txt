@@ -1,0 +1,7 @@
+/home/khan/projects/calculator/build/CMakeFiles/install/strip.dir
+/home/khan/projects/calculator/build/CMakeFiles/edit_cache.dir
+/home/khan/projects/calculator/build/CMakeFiles/calculator.dir
+/home/khan/projects/calculator/build/CMakeFiles/rebuild_cache.dir
+/home/khan/projects/calculator/build/CMakeFiles/list_install_components.dir
+/home/khan/projects/calculator/build/CMakeFiles/install/local.dir
+/home/khan/projects/calculator/build/CMakeFiles/install.dir
